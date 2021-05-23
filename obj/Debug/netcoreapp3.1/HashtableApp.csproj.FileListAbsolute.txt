@@ -1,0 +1,12 @@
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\HashtableApp\bin\Debug\netcoreapp3.1\HashtableApp.exe
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\HashtableApp\bin\Debug\netcoreapp3.1\HashtableApp.deps.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\HashtableApp\bin\Debug\netcoreapp3.1\HashtableApp.runtimeconfig.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\HashtableApp\bin\Debug\netcoreapp3.1\HashtableApp.runtimeconfig.dev.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\HashtableApp\bin\Debug\netcoreapp3.1\HashtableApp.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\HashtableApp\bin\Debug\netcoreapp3.1\HashtableApp.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\HashtableApp\obj\Debug\netcoreapp3.1\HashtableApp.AssemblyInfoInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\HashtableApp\obj\Debug\netcoreapp3.1\HashtableApp.AssemblyInfo.cs
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\HashtableApp\obj\Debug\netcoreapp3.1\HashtableApp.csproj.CoreCompileInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\HashtableApp\obj\Debug\netcoreapp3.1\HashtableApp.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\HashtableApp\obj\Debug\netcoreapp3.1\HashtableApp.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\HashtableApp\obj\Debug\netcoreapp3.1\HashtableApp.genruntimeconfig.cache
